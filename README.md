@@ -7,7 +7,6 @@ Indrets i Rutes STEM a Catalunya
 Rutes de l'Ajuntament de Barcelona
 * https://www.barcelona.cat/barcelonacultura/ca/recomanem/dies-einstein-passar-barcelona-visit
 * https://www.barcelonaturisme.com/wv3/ca/page/4219/rutes-cientifiques.html
-* 
 * https://www.barcelonaturisme.com/wv3/ca/page/4237/ruta-d-einstein-.html
  
 Rutes de la societat Catalana d'Història de la Ciència i d ela Tècnica
@@ -17,6 +16,7 @@ Rutes de la societat Catalana d'Història de la Ciència i d ela Tècnica
 Surt de Recerca per Catalunya
 - https://www.surtderecercapercatalunya.cat/turisme_cientific/
 - https://www.surtderecercapercatalunya.cat/einstein-catalunya/
+
 
 
 ## Museus
@@ -136,15 +136,17 @@ Telescopis antics a la Universitat de Barcelona
 
 Estàtua de "Mazinger Z" 
 - (N 41.3829 ; E 1.3291) - La Cabra del Camp; Mas del Plata (Alt Camp)
+- https://www.openstreetmap.org/#map=17/41.38272/1.32894
 
 
 
-### Stephen Hawking a Barcelona
+## Stephen Hawking a Barcelona
 Revisar diaris del 23-28 d'octubre de 1988
 * https://www.lavanguardia.com/vida/20180318/441615569566/visita-stephen-hawking-barcelona-1988.html
 
 
-### Joan Oró i Florensa
+
+## Joan Oró i Florensa
 
 Llegat Joan Oró. Museu de l’Aigua: Campament de la Canadenca. Av. Miquel Batllori 52, Lleida. https://cultura.paeria.cat/museus-i-patrimoni/museu-de-laigua/noticies/nova-exposicio-al-museu-de-l2019aigua-joan-oro.-el-cientific-de-la-vida
 
@@ -157,13 +159,11 @@ A Fondo (Joaquin Soler Serrano)- TVE. 1976.01.3 BiN. 41 min. (ES) https://www.yo
 
 
 
-
-
 ## A verificar i completar si s'escau
 
 - Estanys de la Valls fosca i centrals hidro
-- Museu drassanes - submarí Ictineu - Narcís Monturiol
-- Campdevanol - "el boig de la Hispano"  (primer pulso-reactor)
+- Museu drassanes i port - submaríns Ictineu - Narcís Monturiol
+- Campdevanol, Farga Casanova - "el boig de la Hispano" (primer pulso-reactor)
 - Colònies tèxtils Llobregat i Ter 
 - Centre La Farinera a pl. de les Glòries Catalanes --> tubs farina
 
